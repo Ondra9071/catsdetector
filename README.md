@@ -6,7 +6,6 @@ XML File for detection by [OpenCV](https://github.com/opencv):
 https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalcatface_extended.xml
 
 YouTube video used for detection:
-https://github.com/opencv
-
+https://www.youtube.com/watch?v=-5CdAup0o-I
 # Preview:
 (will be added soon)
