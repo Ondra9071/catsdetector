@@ -8,4 +8,4 @@ https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_front
 YouTube video used for detection:
 https://www.youtube.com/watch?v=-5CdAup0o-I
 # Preview:
-(will be added soon)
+![Preview](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDA3ZDkwMjdkZDA0ZjRmYzkyNzJiNzU3N2ZjOTUzNmJmNDMyNjI0YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/IE4Oq31RnzZXuWJyoB/giphy.gif)
