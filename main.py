@@ -18,7 +18,7 @@ def detect_cats(video_path):
         for (x, y, w, h) in cats:
             cv2.rectangle(frame, (x, y), (x+w, y+h), (0, 255, 0), 2)
 
-        cv2.imshow('Detekce koček', frame)
+        cv2.imshow('https://github.com/Ondra9071/catsdetector', frame)
         if cv2.waitKey(1) & 0xFF == ord('q'):
             break
 
