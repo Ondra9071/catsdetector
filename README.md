@@ -1,6 +1,10 @@
 # Cats Detector
 A simple Python program that is able to detect cats from a video and mark their face with a green square around it.
 
+# Requirements:
+Python 3
+OpenCV Library
+
 # Resources used:
 XML File for detection by [OpenCV](https://github.com/opencv):
 https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalcatface_extended.xml
